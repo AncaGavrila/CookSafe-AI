@@ -1,0 +1,193 @@
+ html, body {
+  height: 100%;
+}
+
+ body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    
+    /* Imaginea și gradientul de suprapunere */
+    background-image: linear-gradient(rgba(255, 255, 255, 0.45), rgba(255, 255, 255, 0.50)), url(food.jpg);
+    
+    /* Proprietățile de poziționare */
+    background-size: cover;           /* Face imaginea să umple tot spațiul disponibil */
+    background-position: center;      /* Centrează imaginea */
+    background-repeat: no-repeat;     /* Previne repetarea imaginii */
+    
+    /* SOLUȚIA: Fixează imaginea în fundal */
+    background-attachment: fixed;     
+    
+    /* Asigură înălțimea minimă pentru conținut lung */
+    min-height: 100vh;                
+}
+
+/* Șterge height: 100% de la html, body dacă îl ai, 
+deoarece poate tăia fundalul pe pagini lungi */
+html {
+    scroll-behavior: smooth;
+}
+
+  header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 25px 35px;            /* mai mult spațiu sus/jos */
+  min-height: 90px;              /* crește înălțimea headerului */
+  background: white;
+  box-shadow: 0 3px 8px rgba(0,0,0,0.1);
+  position: relative;
+}
+
+
+/* partea stângă cu titlu */
+.header-left {
+  position: relative;
+  cursor: pointer;
+}
+
+.dropdown {
+
+  position: absolute;
+  top: 45px;
+  left: 0;
+  background: white;
+  border-radius: 10px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.15);
+  display: none;
+  flex-direction: column;
+  overflow: hidden;
+  min-width: 180px;
+}
+
+.dropdown a {
+  padding: 12px 15px;
+  text-decoration: none;
+  color: #333;
+  font-weight: 500;
+  display: block;
+}
+
+.dropdown a:hover {
+  background: #ff7f3f;
+  color: white;
+}
+
+.dropdown.right {
+  right: 0;
+  left: auto;
+}
+
+.hamburger {
+  font-size: 45px;       /* mărimea hamburgerului */
+  cursor: pointer;
+  user-select: none;
+  padding: 5px 12px;     /* face hitbox-ul mai mare */
+  border-radius: 10px;
+  transition: 0.2s ease;
+}
+
+/* Efect frumos la hover */
+.hamburger:hover {
+  transform: scale(1.15);
+}
+
+.title-box {
+  padding: 14px 30px;  /* casetă mai mare */
+  background: linear-gradient(135deg, #ff9f5f, #ff7f3f);
+  color: white;
+  font-size: 30px;     /* scris mai mare */
+  font-weight: bold;
+  border-radius: 18px; /* colțuri mai elegante */
+  box-shadow: 0 6px 16px rgba(255, 120, 50, 0.35);
+  animation: titlePop 0.6s ease-out;
+  cursor: default;
+  user-select: none;
+  transform-origin: center;
+}
+
+
+/* animație elastică pentru intrare */
+@keyframes titlePop {
+  0%   { transform: scale(0.6); opacity: 0; }
+  60%  { transform: scale(1.12); opacity: 1; }
+  80%  { transform: scale(0.92); }
+  100% { transform: scale(1); }
+}
+
+/* efect mic când treci cu mouse-ul */
+.title-box:hover {
+  transform: scale(1.05);
+  box-shadow: 0 6px 16px rgba(255, 120, 50, 0.45);
+  transition: 0.25s ease;
+}
+
+/* Stiluri pentru containerul de conținut */
+.content-container {
+  max-width: 900px;
+  margin: 40px auto;
+  background: rgba(255, 255, 255, 0.9); /* Fundal alb semi-transparent */
+  padding: 40px;
+  border-radius: 25px;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+  line-height: 1.6;
+  color: #333;
+}
+
+.doc-header h1 {
+  color: #ff7f3f;
+  font-size: 2.2rem;
+  margin-bottom: 10px;
+}
+
+.doc-section {
+  margin-top: 30px;
+}
+
+.doc-section h2 {
+  color: #ff9f5f;
+  border-left: 5px solid #ff7f3f;
+  padding-left: 15px;
+  margin-bottom: 15px;
+}
+
+.doc-section ul {
+  padding-left: 20px;
+}
+
+.doc-section li {
+  margin-bottom: 8px;
+}
+
+.action-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 15px;
+  margin-top: 15px;
+}
+
+.action-card {
+  background: white;
+  padding: 15px;
+  border-radius: 12px;
+  border: 1px solid #ffe0d0;
+  font-size: 0.9rem;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.05);
+}
+
+.doc-footer {
+  margin-top: 50px;
+  text-align: center;
+  font-size: 0.85rem;
+  color: #777;
+  border-top: 1px solid #eee;
+  padding-top: 20px;
+}
+
+/* Responsivitate pentru ecrane mici */
+@media (max-width: 600px) {
+  .content-container {
+    margin: 20px;
+    padding: 20px;
+  }
+}

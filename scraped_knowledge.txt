@@ -1,0 +1,249 @@
+=== AGGREGATED SAFETY KNOWLEDGE BASE ===
+
+
+
+--- SOURCE: NCBI - Domestic Violence Overview ---
+URL: https://www.ncbi.nlm.nih.gov/books/NBK499891/
+----------------------------------------
+Warning:
+	The NCBI web site requires JavaScript to function. 
+	more...
+
+The .gov means it's official.
+
+							Federal government websites often end in .gov or .mil. Before
+							sharing sensitive information, make sure you're on a federal
+							government site.
+
+The site is secure.
+
+							The https:// ensures that you are connecting to the
+							official website and that any information you provide is encrypted
+							and transmitted securely.
+
+NCBI Bookshelf. A service of the National Library of Medicine, National Institutes of Health.
+
+StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2025 Jan-.
+
+Martin R. Huecker; Kevin C. King; Gary A. Jordan; William Smock.
+
+AuthorsMartin R. Huecker1; Kevin C. King2; Gary A. Jordan3; William Smock.
+
+Family and domestic violence is a common problem in the United States, affecting an estimated 10 million people every year; as many as one in four women and one in nine men are victims of domestic violence. Virtually all healthcare professionals will at some point evaluate or treat a patient who is a victim of domestic or family violence. Domestic and family violence includes economic, physical, sexual, emotional, and psychological abuse of children, adults, or elders. Domestic violence causes worsened psychological and physical health, decreased quality of life, decreased productivity, and in some cases, mortality. Domestic and family violence can be difficult to identify. Many cases are not reported to health professionals or legal authorities. This activity describes the evaluation, reporting, and management strategies for victims of domestic abuse and stresses the role of team-based interprofessional care for these victims.
+
+Objectives:
+Identify the epidemiology of domestic violence.Describe the types of domestic violence.Explain challenges associated with reporting domestic violence.Review some interprofessional team strategies for improving care coordination and communication to identify domestic violence and improve outcomes for its victims.
+Access free multiple choice questions on this topic.
+
+Family and domestic violence including child abuse, intimate partner abuse, and elder abuse is a common problem in the United States. Family and domestic health violence are estimated to affect 10 million people in the United States every year. It is a national public health problem, and virtually all healthcare professionals will at some point evaluate or treat a patient who is a victim of some form of domestic or family violence.[1][2][3][4][5]
+
+Unfortunately, each form of family violence begets interrelated forms of violence. The "cycle of abuse" is often continued from exposed children into their adult relationships and finally to the care of the elderly.
+
+Domestic and family violence includes a range of abuse, including economic, physical, sexual, emotional, and psychological, toward children, adults, and elders.
+
+Intimate partner violence includes stalking, sexual and physical violence, and psychological aggression by a current or former partner. In the United States, as many as one in four women and one in nine men are victims of domestic violence. Domestic violence is thought to be underreported. Domestic violence affects the victim, families, co-workers, and community. It causes diminished psychological and physical health, decreases the quality of life, and results in decreased productivity.
+
+The national economic cost of domestic and family violence is estimated to be over 12 billion dollars per year. The number of individuals affected is expected to rise over the next 20 years, increasing the elderly population.
+
+Domestic and family violence is difficult to identify, and many cases go unreported to health professionals or legal authorities. Due to the prevalence in our society, all healthcare professionals, including psychologists, nurses, pharmacists, dentists, physician assistants, nurse practitioners, and physicians, will evaluate and possibly treat a victim or perpetrator of domestic or family violence.[6][7]
+
+Family and domestic violence are abusive behaviors in which one individual gains power over another individual.
+
+Domestic violence, spousal abuse, battering, or intimate partner violence, is typically the victimization of an individual with whom the abuser has an intimate or romantic relationship. The CDC defines domestic violence as "physical violence, sexual violence, stalking, and psychological aggression (including coercive acts) by a current or former intimate partner."
+
+Domestic and family violence has no boundaries. This violence occurs in intimate relationships regardless of culture, race, religion, or socioeconomic status. All healthcare professionals must understand that domestic violence, whether in the form of emotional, psychological, sexual, or physical violence, is common in our society and should develop the ability to recognize it and make the appropriate referral.
+
+The types of violence include stalking, economic, emotional or psychological, sexual, neglect, Munchausen by proxy, and physical. Domestic and family violence occurs in all races, ages, and sexes. It knows no cultural, socioeconomic, education, religious, or geographic limitation. It may occur in individuals with different sexual orientations.
+
+Risk factors for domestic and family violence include individual, relationship, community, and societal issues. There is an inverse relationship between education and domestic violence. Lower education levels correlate with more likely domestic violence. Childhood abuse is commonly associated with becoming a perpetrator of domestic violence as an adult. Perpetrators of domestic violence commonly repeat acts of violence with new partners. Drug and alcohol abuse greatly increases the incidence of domestic violence.
+
+Children who are victims or witness domestic and family violence may believe that violence is a reasonable way to resolve a conflict. Males who learn that females are not equally respected are more likely to abuse females in adulthood. Females who witness domestic violence as children are more likely to be victimized by their spouses. While females are often the victim of domestic violence, gender roles can be reversed.
+
+Domination may include emotional, physical, or sexual abuse that may be caused by an interaction of situational and individual factors. This means the abuser learns violent behavior from their family, community, or culture. They see violence and are victims of violence.
+
+Domestic violence is a serious and challenging public health problem. Approximately 1 in 3 women and 1 in 10 men 18 years of age or older experience domestic violence. Annually, domestic violence is responsible for over 1500 deaths in the United States.[11][12][13]
+
+Domestic violence victims typically experience severe physical injuries requiring care at a hospital or clinic. The cost to individuals and society is significant. The national annual cost of medical and mental health care services related to acute domestic violence is estimated at over $8 billion. If the injury results in a long-term or chronic condition, the cost is considerably higher.
+
+Financial hardship and unemployment are contributors to domestic violence. An economic downturn is associated with increased calls to the National Domestic Violence Hotline.
+
+Fortunately, the national rate of nonfatal domestic violence is declining. This is thought to be due to a decline in the marriage rate, decreased domesticity, better access to domestic violence shelters, improvements in female economic status, and an increase in the average age of the population.
+
+Age, family income, and ethnicity are all risk factors for both sexual abuse and physical abuse. Gender is a risk factor for sexual abuse but not for physical abuse.
+
+Each year there are over 3 million referrals to child protective authorities. Despite often being the first to examine the victims, only about 10% of the referrals were from medical personnel. The fatality rate is approximately two deaths per 100,000 children. Women account for a little over half of the perpetrators.
+
+According to the CDC, 1 in 4 women and 1 in 7 men will experience physical violence by their intimate partner at some point during their lifetimes. About 1 in 3 women and nearly 1 in 6 men experience some form of sexual violence during their lifetimes. Intimate partner violence, sexual violence, and stalking are high, with intimate partner violence occurring in over 10 million people each year.
+
+One in 6 women and 1 in 19 men have experienced stalking during their lifetimes. The majority are stalked by someone they know. An intimate partner stalks about 6 in 10 female victims and 4 in 10 male victims.
+
+At least 5 million acts of domestic violence occur annually to women aged 18 years and older, with over 3 million involving men. While most events are minor, for example grabbing, shoving, pushing, slapping, and hitting, serious and sometimes fatal injuries do occur. Approximately 1.5 million intimate partner female rapes and physical assaults are perpetrated annually, and approximately 800,000 male assaults occur. About 1 in 5 women have experienced completed or attempted rape at some point in their lives. About 1% to 2% of men have experienced completed or attempted rape.
+
+The incidence of intimate partner violence has declined by over 60%, from about ten victimizations per 1000 persons age 12 or older to approximately 4 per 1000.
+
+Due to underreporting and difficulty sampling, obtaining accurate incidence information on elder abuse and neglect is difficult. Elderly abuse is thought to occur in 3% to 10% of the population of elders.
+
+Elderly patients may not report due to fear, guilt, ignorance, or shame. Clinicians underreport elder abuse due to poor recognition of the problem, lack of understanding of reporting methods and requirements, and concerns about physician-patient confidentiality.
+
+There may be some pathologic findings in both the victims and perpetrators of domestic violence. Certain medical conditions and lifestyles make family and domestic violence more likely.[13][14][15]
+
+While the research is not definitive, a number of characteristics are thought to be present in perpetrators of domestic violence. Abusers tend to:
+
+Domestic violence at home results in emotional damage, which exerts continued effects as the victim matures.
+
+The American College of Obstetricians and Gynecologists (ACOG) recommends all women be assessed for signs and symptoms of domestic violence during regular and prenatal visits. Providers should offer support and referral information.
+
+The danger of domestic violence is particularly acute as both mother and fetus are at risk. Healthcare professionals should be aware of the psychological consequences of domestic abuse during pregnancy. There is more stress, depression, and addiction to alcohol in abused pregnant women. These conditions may harm the fetus.
+
+Domestic violence occurs in gay, lesbian, bisexual, and transgender couples, and the rates are thought to be similar to a heterosexual woman, approximately 25%.
+
+[...Limit reached for this source...]
+
+
+--- SOURCE: The Hotline - Identify Abuse ---
+URL: https://www.thehotline.org/identify-abuse/
+----------------------------------------
+Your gift to The Hotline is a gift of hope. You help victims and survivors imagine a life free from violence. Every dollar is matched up to $75,000!
+
+The National Domestic Violence Hotline get help icon
+Need help now? We're here for you.
+
+Our domestic violence informed compassionate A.I. chat, Ruth, can help when you're unable to reach a live advocate. To speak to a live person, call, chat, or text a live advocate.
+
+The National Domestic Violence Hotline resources icon
+Learning about abuse is an important step.
+
+Illustration of a hand with a love-heart floating above it.
+Make an impact. Empower Survivors.
+
+You can quickly leave this website by clicking the “X” in the top right or by pressing the Escape key twice.
+
+To browse this site safely, be sure to regularly clear your browser history.
+
+Internet usage can be monitored and is impossible to erase completely. If you’re concerned your internet usage might be monitored, call us at 800.799.SAFE (7233). Learn more about digital security and remember to clear your browser history after visiting this website.
+
+Click the red “X” in the upper-right corner or “Escape” button on your keyboard twice at any time to leave TheHotline.org immediately.
+
+Holding Space: Three Ways to Support Domestic Violence Survivors
+
+This project was supported by Grant Number 90EV0459 from the Administration on Children, Youth and Families, Family and Youth Services Bureau, U.S. Department of Health and Human Services. The opinions, findings, conclusions and recommendations expressed in this publication are those of the author(s) and do not necessarily reflect the views of the Administration on Children, Youth and Families, Family and Youth Services Bureau, U.S. Department of Health and Human Services.
+
+Exempted from federal income tax under the provisions of Section 501(c) (3) of the Internal Revenue Code.
+
+This Website is funded through Grant 2020-V3-GX-0135 from the Office for Victims of Crime, Office of Justice Programs, U.S. Department of Justice. Neither the U.S. Department of Justice nor any of its components operate, control, are responsible for, or necessarily endorse, this Web site (including, without limitation, its content, technical infrastructure, and policies, and any services or tools provided.
+
+The National Domestic Violence Hotline get help icon
+Need help now? We're here for you.
+
+Our domestic violence informed compassionate A.I. chat, Ruth, can help when you're unable to reach a live advocate. To speak to a live person, call, chat, or text a live advocate.
+
+The National Domestic Violence Hotline resources icon
+Learning about abuse is an important step.
+
+Illustration of a hand with a love-heart floating above it.
+Make an impact. Empower Survivors.
+
+
+
+--- SOURCE: World Health Organization (WHO) - Violence against women ---
+URL: https://www.who.int/news-room/fact-sheets/detail/violence-against-women
+----------------------------------------
+OverviewThe United Nations defines violence against women as "any act of gender-based violence that results in, or is likely to result in, physical, sexual, or mental harm or suffering to women, including threats of such acts, coercion or arbitrary deprivation
+    of liberty, whether occurring in public or in private life" (1).Intimate partner violence refers to behaviour by an intimate partner or ex-partner that causes physical, sexual or psychological harm, including physical aggression, sexual coercion, psychological abuse and controlling behaviours.Sexual violence is "any sexual act, attempt to obtain a sexual act, or other act directed against a person’s sexuality using coercion, by any person regardless of their relationship to the victim, in any setting. It includes
+    rape, defined as the physically forced or otherwise coerced penetration of the vulva or anus with a penis, other body part or object, attempted rape, unwanted sexual touching and other non-contact forms."World report on violence and healthScope of the problemPopulation-level surveys based on reports from survivors provide the most accurate estimates of the prevalence of intimate partner violence and sexual violence. A 2018 analysis of prevalence data from 2000–2018 across 161 countries and areas, conducted
+    by WHO on behalf of the UN Interagency working group on violence against women, found that worldwide, nearly 1 in 3, or 30%, of women have been subjected to physical and/or sexual violence by an intimate partner or non-partner sexual violence or both (2).Global and regional estimates of violence against womenOver a quarter of women aged 15–49 years who have been in a relationship have been subjected to physical and/or sexual violence by their intimate partner at least once in their lifetime (since age 15). The prevalence estimates of lifetime intimate partner
+    violence range from 20% in the Western Pacific, 22% in high-income countries and Europe and 25% in the WHO Regions of  the Americas to 33% in the WHO African region, 31% in the WHO Eastern Mediterranean Region, and 33% in the WHO South-East Asia
+    region.
+Globally as many as 38% of all murders of women are committed by intimate partners. In addition to intimate partner violence, globally 6% of women report having been sexually assaulted by someone other than a partner, although data for non-partner sexual
+    violence are more limited. Intimate partner and sexual violence are mostly perpetrated by men against women.Lockdowns during the COVID-19 pandemic and its social and economic impacts have increased the exposure of women to abusive partners and known risk factors, while limiting their access to services. Situations of humanitarian crises and displacement may
+    exacerbate existing violence, such as by intimate partners, as well as non-partner sexual violence, and may also lead to new forms of violence against women.COVID-19 and violence against womenFactors associated with intimate partner violence and sexual violence against womenIntimate partner and sexual violence is the result of factors occurring at individual, family, community and wider society levels that interact with each other to increase or reduce risk (protective). Some are associated with being a perpetrator of violence,
+    some are associated with experiencing violence and some are associated with both.Risk factors for both intimate partner and sexual violence include:lower levels of education (perpetration of sexual violence and experience of sexual violence);a history of exposure to child maltreatment (perpetration and experience);witnessing family violence (perpetration and experience);antisocial personality disorder (perpetration);harmful use of alcohol (perpetration and experience); harmful masculine behaviours, including having multiple partners or attitudes that condone violence (perpetration);community norms that privilege or ascribe higher status to men and lower status to women; low levels of women’s access to paid employment; andlow level of gender equality (discriminatory laws, etc.).Factors specifically associated with intimate partner violence include:past history of exposure to violence;marital discord and dissatisfaction;difficulties in communicating between partners; andmale controlling behaviours towards their partners.Factors specifically associated with sexual violence perpetration include:beliefs in family honour and sexual purity;ideologies of male sexual entitlement; andweak legal sanctions for sexual violence.Gender inequality and norms on the acceptability of violence against women are a root cause of violence against women.Health consequencesIntimate partner (physical, sexual and psychological) and sexual violence cause serious short- and long-term physical, mental, sexual and reproductive health problems for women. They also affect their children’s health and well-being. This violence
+    leads to high social and economic costs for women, their families and societies. Such violence can:Have fatal outcomes like homicide or suicide.Lead to injuries, with 42% of women who experience intimate partner violence reporting an injury as a consequence of this violence (3).Lead to unintended pregnancies, induced abortions, gynaecological problems, and sexually transmitted infections, including HIV. WHO's 2013 study on the health burden associated with violence against women found that women who had been physically or
+        sexually abused were 1.5 times more likely to have a sexually transmitted infection and, in some regions, HIV, compared to women who had not experienced partner violence. They are also twice as likely to have an abortion (3).Intimate partner violence in pregnancy also increases the likelihood of miscarriage, stillbirth, pre-term delivery and low birth weight babies. The same 2013 study showed that women who experienced intimate partner violence were 16% more likely to
+        suffer a miscarriage and 41% more likely to have a pre-term birth (3).These forms of violence can lead to depression, post-traumatic stress and other anxiety disorders, sleep difficulties, eating disorders, and suicide attempts. The 2013 analysis found that women who have experienced intimate partner violence were almost
+        twice as likely to experience depression and problem drinking.Health effects can also include headaches, pain syndromes (back pain, abdominal pain, chronic pelvic pain) gastrointestinal disorders, limited mobility and poor overall health.Sexual violence, particularly during childhood, can lead to increased smoking, substance use, and risky sexual behaviours. It is also associated with perpetration of violence (for males) and being a victim of violence (for females).Impact on childrenChildren who grow up in families where there is violence may suffer a range of behavioural and emotional disturbances. These can also be associated with perpetrating or experiencing violence later in life.Intimate partner violence has also been associated with higher rates of infant and child mortality and morbidity (through, for example diarrhoeal disease or malnutrition and lower immunization rates).Social and economic costsThe social and economic costs of intimate partner and sexual violence are enormous and have ripple effects throughout society. Women may suffer isolation, inability to work, loss of wages, lack of participation in regular activities and limited ability
+    to care for themselves and their children.Prevention and responseThere is growing evidence on what works to prevent violence against women, based on well-designed evaluations. In 2019, WHO and UN Women with endorsement from 12 other UN and bilateral agencies published RESPECT women – a framework for
+    preventing violence against women aimed at policy makers.  Each letter of RESPECT stands for one of seven strategies: Relationship skills strengthening; Empowerment of women; Services ensured; Poverty reduced; Enabling environments (schools, work places, public spaces) created; Child and adolescent abuse prevented;
+    and Transformed attitudes, beliefs and norms. For each of these seven strategies there are a range of interventions in low and high resource settings with varying degree of evidence of effectiveness. Examples of promising interventions include psychosocial support and psychological  interventions
+    for survivors of intimate partner violence; combined economic and social empowerment programmes; cash transfers; working with couples to improve communication and relationship skills; community mobilization interventions to change unequal gender norms;
+    school programmes that enhance safety in schools and reduce/eliminate harsh punishment and include curricula that challenges gender stereotypes and promotes relationships based on equality and consent;  and group-based participatory education
+    with women and men to generate critical reflections about unequal gender power relationships.RESPECT also highlights that successful interventions are those that prioritize safety of women; whose core elements involve challenging unequal gender power relationships; that are participatory; address multiple risk factors through combined programming
+    and that start early in the life course. To achieve lasting change, it is important to enact and enforce legislation and develop and implement policies that promote gender equality; allocate resources to prevention and response; and invest in women’s rights organizations.RESPECT women: Preventing violence against womenRole of the health sectorWhile preventing and responding to violence against women requires a multi-sectoral approach, the health sector has an important role to play. The health sector can:advocate to make violence against women unacceptable and for such violence to be addressed as a public health problem;provide comprehensive services, sensitize and train health care providers in responding to the needs of survivors holistically and empathetically;prevent recurrence of violence through early identification of women and children who are experiencing violence and providing appropriate referral and support;promote egalitarian gender norms as part of life skills and comprehensive sexuality education curricula taught to young people; andgenerate evidence on what works and on the magnitude of the problem by carrying out population-based surveys, or including violence against women in population-based demographic and health surveys, as well as in surveillance and health information
+        systems.
+    WHO responseAt the World Health Assembly in May 2016, Member States endorsed a global plan of action on strengthening the role of the health systems in addressing interpersonal violence, in particular against women and girls and against children.Global plan of action to strengthen the role of the health system within a national multisectoral response to address interpersonal violence, in particular against women and girls, and against childrenWHO, in collaboration with partners, is:building the evidence base on the size and nature of violence against women in different settings and supporting countries' efforts to document and measure this violence and its consequences, including improving the methods for measuring violence
+        against women in the context of monitoring for the Sustainable Development Goals. This is central to understanding the magnitude and nature of the problem and to initiating action in countries and globally;strengthening research and capacity to assess interventions to prevent and respond to violence against women;undertaking interventions research to test and identify effective health sector interventions to address violence against women;developing guidelines and implementation tools for strengthening the health sector response to intimate partner and sexual violence and synthesizing evidence on what works to prevent such violence;supporting countries and partners to implement the global plan of action on violence and monitoring progress including through documentation of lessons learned; andcollaborating with international agencies and organizations to reduce and eliminate violence globally through initiatives such as the Sexual Violence Research Initiative, Together for Girls, the UN Women-WHO Joint Programme on Strengthening Violence
+        against Women measurement and data Collection and use,  the UN Joint Programme on Essential Services Package for Women Subject to Violence, and the Secretary General’s political strategy to address violence against women and COVID-19. WHO and UN Women, along with other partners, co-lead the Action Coalition on Gender-based Violence, an innovative partnership of governments, civil society, youth leaders, private sector and philanthropies to develop a bold agenda of catalytic actions
+        and leverage funding to eradicate violence against women.  (1) United Nations. Declaration on the elimination of violence against women. New York : UN, 1993.(2) Violence against women Prevalence Estimates, 2018. Global, regional and national prevalence estimates for intimate partner violence against women and global and regional prevalence estimates for non-partner sexual violence against women.
+    WHO: Geneva, 2021
+(3) WHO, LSHTM, SAMRC. Global and regional estimates of violence against women: prevalence and health impacts of intimate partner violence and non-partner sexual violence. WHO: Geneva, 2013.
+
+The United Nations defines violence against women as "any act of gender-based violence that results in, or is likely to result in, physical, sexual, or mental harm or suffering to women, including threats of such acts, coercion or arbitrary deprivation
+    of liberty, whether occurring in public or in private life" (1).
+
+Intimate partner violence refers to behaviour by an intimate partner or ex-partner that causes physical, sexual or psychological harm, including physical aggression, sexual coercion, psychological abuse and controlling behaviours.
+
+Sexual violence is "any sexual act, attempt to obtain a sexual act, or other act directed against a person’s sexuality using coercion, by any person regardless of their relationship to the victim, in any setting. It includes
+    rape, defined as the physically forced or otherwise coerced penetration of the vulva or anus with a penis, other body part or object, attempted rape, unwanted sexual touching and other non-contact forms."
+
+Population-level surveys based on reports from survivors provide the most accurate estimates of the prevalence of intimate partner violence and sexual violence. A 2018 analysis of prevalence data from 2000–2018 across 161 countries and areas, conducted
+    by WHO on behalf of the UN Interagency working group on violence against women, found that worldwide, nearly 1 in 3, or 30%, of women have been subjected to physical and/or sexual violence by an intimate partner or non-partner sexual violence or both (2).
+
+Over a quarter of women aged 15–49 years who have been in a relationship have been subjected to physical and/or sexual violence by their intimate partner at least once in their lifetime (since age 15). The prevalence estimates of lifetime intimate partner
+    violence range from 20% in the Western Pacific, 22% in high-income countries and Europe and 25% in the WHO Regions of  the Americas to 33% in the WHO African region, 31% in the WHO Eastern Mediterranean Region, and 33% in the WHO South-East Asia
+    region.
+
+Globally as many as 38% of all murders of women are committed by intimate partners. In addition to intimate partner violence, globally 6% of women report having been sexually assaulted by someone other than a partner, although data for non-partner sexual
+    violence are more limited. Intimate partner and sexual violence are mostly perpetrated by men against women.
+
+Lockdowns during the COVID-19 pandemic and its social and economic impacts have increased the exposure of women to abusive partners and known risk factors, while limiting their access to services. Situations of humanitarian crises and displacement may
+    exacerbate existing violence, such as by intimate partners, as well as non-partner sexual violence, and may also lead to new forms of violence against women.
+
+Factors associated with intimate partner violence and sexual violence against women
+
+Intimate partner and sexual violence is the result of factors occurring at individual, family, community and wider society levels that interact with each other to increase or reduce risk (protective). Some are associated with being a perpetrator of violence,
+    some are associated with experiencing violence and some are associated with both.
+
+Risk factors for both intimate partner and sexual violence include:
+
+Factors specifically associated with intimate partner violence include:
+
+Factors specifically associated with sexual violence perpetration include:
+
+Gender inequality and norms on the acceptability of violence against women are a root cause of violence against women.
+
+Intimate partner (physical, sexual and psychological) and sexual violence cause serious short- and long-term physical, mental, sexual and reproductive health problems for women. They also affect their children’s health and well-being. This violence
+    leads to high social and economic costs for women, their families and societies. Such violence can:
+
+The social and economic costs of intimate partner and sexual violence are enormous and have ripple effects throughout society. Women may suffer isolation, inability to work, loss of wages, lack of participation in regular activities and limited ability
+    to care for themselves and their children.
+
+There is growing evidence on what works to prevent violence against women, based on well-designed evaluations. In 2019, WHO and UN Women with endorsement from 12 other UN and bilateral agencies published RESPECT women – a framework for
+    preventing violence against women aimed at policy makers.
+
+Each letter of RESPECT stands for one of seven strategies: Relationship skills strengthening; Empowerment of women; Services ensured; Poverty reduced; Enabling environments (schools, work places, public spaces) created; Child and adolescent abuse prevented;
+    and Transformed attitudes, beliefs and norms.
+
+For each of these seven strategies there are a range of interventions in low and high resource settings with varying degree of evidence of effectiveness. Examples of promising interventions include psychosocial support and psychological  interventions
+    for survivors of intimate partner violence; combined economic and social empowerment programmes; cash transfers; working with couples to improve communication and relationship skills; community mobilization interventions to change unequal gender norms;
+    school programmes that enhance safety in schools and reduce/eliminate harsh punishment and include curricula that challenges gender stereotypes and promotes relationships based on equality and consent;  and group-based participatory education
+    with women and men to generate critical reflections about unequal gender power relationships.
+
+RESPECT also highlights that successful interventions are those that prioritize safety of women; whose core elements involve challenging unequal gender power relationships; that are participatory; address multiple risk factors through combined programming
+    and that start early in the life course.
+
+To achieve lasting change, it is important to enact and enforce legislation and develop and implement policies that promote gender equality; allocate resources to prevention and response; and invest in women’s rights organizations.
+
+While preventing and responding to violence against women requires a multi-sectoral approach, the health sector has an important role to play. The health sector can:
+
+At the World Health Assembly in May 2016, Member States endorsed a global plan of action on strengthening the role of the health systems in addressing interpersonal violence, in particular against women and girls and against children.
+
+WHO and UN Women, along with other partners, co-lead the Action Coalition on Gender-based Violence, an innovative partnership of governments, civil society, youth leaders, private sector and philanthropies to develop a bold agenda of catalytic actions
+        and leverage funding to eradicate violence against women.
+
+(1) United Nations. Declaration on the elimination of violence against women. New York : UN, 1993.
+
+(2) Violence against women Prevalence Estimates, 2018. Global, regional and national prevalence estimates for intimate partner violence against women and global and regional prevalence estimates for non-partner sexual violence against women.
+    WHO: Geneva, 2021
+
+(3) WHO, LSHTM, SAMRC. Global and regional estimates of violence against women: prevalence and health impacts of intimate partner violence and non-partner sexual violence. WHO: Geneva, 2013.
+

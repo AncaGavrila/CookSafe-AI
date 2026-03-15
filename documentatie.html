@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="ro">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CookSafe AI - Documentație</title>
+  <link rel="stylesheet" href="documentatie.css">
+</head>
+
+<body>
+
+<header>
+  <div class="header-left">
+    <div class="title-box">CookSafe AI</div>
+  </div>
+
+  <div class="hamburger" onclick="toggleHamburgerMenu()">☰</div>
+  <div id="hamburgerMenu" class="dropdown right">
+    <a href="index_final.html">Home</a>
+    <a href="documentatie.html">Documentație</a>
+  </div>
+</header>
+
+<main class="content-container">
+  <section class="doc-header">
+    <h1>Documentație Tehnică: AI Safety Assistant</h1>
+    <p>Un instrument inteligent de suport camuflat, creat pentru protecția utilizatorilor în situații de risc.</p>
+  </section>
+
+  <hr>
+
+  <section class="doc-section">
+    <h2>1. Introducere</h2>
+    <p>Sistemul funcționează în două moduri principale: un mod conversațional despre gătit (pentru camuflaj) și un mod de suport de urgență care se activează la detectarea semnalelor de pericol. Acesta integrează tehnici AI avansate, geolocație și acțiuni externe automatizate.</p>
+  </section>
+
+  <section class="doc-section">
+    <h2>2. Arhitectura Sistemului</h2>
+    <p>Aplicația este construită ca un sistem modular:</p>
+    <ul>
+      <li><strong>Backend:</strong> Python Flask pentru procesare AI și rute de mesaje.</li>
+      <li><strong>Frontend:</strong> Interfață JavaScript pentru interacțiune dinamică.</li>
+      <li><strong>Baza de date:</strong> SQLite pentru stocarea resurselor verificate (ONG, Poliție, Avocați).</li>
+      <li><strong>RAG:</strong> Modul de procesare care îmbină datele oficiale cu prompt-urile LLM.</li>
+    </ul>
+  </section>
+
+  <section class="doc-section">
+    <h2>3. Detecția Siguranței și RAG</h2>
+    <p>Sistemul monitorizează cuvintele cheie pentru a evita presupunerile despre starea emoțională a utilizatorului. Când este activat modul de siguranță, acesta utilizează <strong>Retrieval-Augmented Generation (RAG)</strong> pentru a oferi răspunsuri bazate pe date oficiale de la WHO sau NCBI, eliminând improvizația AI-ului.</p>
+  </section>
+
+  <section class="doc-section">
+    <h2>4. Acțiuni de Urgență Automatizate</h2>
+    <p>Pentru o reacție rapidă și discretă, asistentul poate executa automat următoarele:</p>
+    <div class="action-grid">
+      <div class="action-card">Draft e-mail către poliție cu locația GPS.</div>
+      <div class="action-card">Mesaj WhatsApp predefinit cu link de ajutor.</div>
+      <div class="action-card">Generarea unei "liste de cumpărături" care ascunde un plan de siguranță.</div>
+      <div class="action-card">Buton de panică pentru redirecționare instantanee.</div>
+    </div>
+  </section>
+
+  <section class="doc-section">
+    <h2>5. Servicii de Localizare și UI</h2>
+    <p>Interfața mimează un asistent de gătit pentru a minimiza riscul identificării de către un agresor. În fundal, funcția <code>watchPosition</code> actualizează constant coordonatele pentru a returna cele mai apropiate resurse de ajutor din baza de date.</p>
+  </section>
+
+  <section class="doc-footer">
+    <p>© 2026 CookSafe AI - Prioritizăm siguranța și confidențialitatea.</p>
+  </section>
+</main>
+
+<script>
+function toggleHamburgerMenu() {
+  const menu = document.getElementById("hamburgerMenu");
+  menu.style.display = menu.style.display === "flex" ? "none" : "flex";
+}
+
+document.addEventListener("click", function(e) {
+  if (!e.target.classList.contains("hamburger")) {
+    const menu = document.getElementById("hamburgerMenu");
+    if(menu) menu.style.display = "none";
+  }
+});
+</script>
+
+</body>
+</html>

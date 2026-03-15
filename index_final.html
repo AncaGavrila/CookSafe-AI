@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>CookSafe AI</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+
+<header>
+  <div class="header-left">
+    <div class="title-box">CookSafe AI</div>
+  </div>
+
+  <div class="hamburger" onclick="toggleHamburgerMenu()">☰</div>
+  <div id="hamburgerMenu" class="dropdown right">
+    <a href="index.html">Home</a>
+    <a href="documentatie.html">Documentație</a>
+  </div>
+</header>
+
+<div id="container">
+  <aside id="recipes">
+    <h3>Popular Recipes</h3>
+    <ul>
+      <li class="recipe-item" onclick="sendMessage('Show me how to make chicken soup!')">
+        <span> Chicken Soup </span>
+        <img src="soup.jpg" alt="Chicken Soup">
+      </li>
+      
+      <li class="recipe-item" onclick="sendMessage('Give me a quick pasta recipe.')">
+        <span>Quick Pasta</span>
+        <img src="pasta.jpg" alt="Quick Pasta">
+      </li>
+
+      <li class="recipe-item" onclick="sendMessage('Suggest a healthy salad.')">
+        <span>Fresh Salad</span>
+        <img src="salad.jpg" alt="Fresh Salad">
+      </li>
+    </ul>
+  </aside>
+
+  <section id="chat-box">
+    <div id="chat-inner">
+      <div id="messages"></div>
+
+     <div id="input-row">
+    <input id="userInput" type="text" placeholder="Ex: Salad..." />
+    <button onclick="sendMessage()">Send</button>
+    <button onclick="clearSafetyMessages()" id="clearSafetyBtn">Clean Safety</button>
+</div>
+
+    </div>
+  </section>
+</div>
+
+<!-- Script extern -->
+<script src="script.js"></script>
+
+</body>
+</html>
